@@ -81,7 +81,7 @@
 | 2.2.0-4（通用版） | 本工程的打包基线：通用纯色主题，Windows 安装版/便携版、Linux `.deb` |
 | 2.2.0-5（SnapFix） | 修复 Windows 窗口贴靠行为；修复源码已包含在本仓库 `source/windows-native` 中 |
 
-`dist/SHA256SUMS.txt` 提供各发布包的 SHA-256 校验值。
+`dist/SHA256SUMS.txt` 提供各发布包的 SHA-256 校验值。完整的版本变更记录见 [CHANGELOG.md](CHANGELOG.md)。
 
 ## 已验证内容
 
