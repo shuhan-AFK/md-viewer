@@ -1,0 +1,5 @@
+# 统一行尾：文本文件仓库内以 LF 存储，检出时自动适配平台
+* text=auto
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf

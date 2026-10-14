@@ -1,0 +1,11 @@
+# 操作系统生成的垃圾文件
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# 构建产物与工具依赖（仓库不收录，可按脚本重新生成）
+build/
+tools/
+obj/
+bin/
+.vs/

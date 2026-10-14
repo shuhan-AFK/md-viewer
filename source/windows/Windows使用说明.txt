@@ -1,0 +1,24 @@
+MD Viewer 2.2.0-4 通用版（Windows x64）
+
+适用系统
+- Windows 10 / Windows 11，64 位。
+- 需要 Microsoft Edge WebView2 Runtime 和 .NET Framework 4.8。
+  Windows 10/11 通常已经具备；如缺少，程序启动时会给出提示。
+
+主要功能
+- Markdown 预览、编辑、保存、多标签页与外部文件变化检测；
+- 表格、任务列表、代码块、链接和本地图片；
+- Word（.docx）导出；
+- 简洁纯色界面、亮色/暗色/跟随系统主题；
+- 字体大小调节：工具栏 A−/字号/A+；
+- 字体快捷键：Ctrl+-、Ctrl+0、Ctrl++；
+- 字号范围 10–28px，并自动保存。
+
+安装版
+运行 MD-Viewer-2.2.0-4-Windows-x64-Setup.exe，按提示安装。
+安装程序会为当前 Windows 用户注册开始菜单、桌面快捷方式和 .md 文件关联，通常不需要管理员权限。
+安装程序没有商业数字签名；若 Windows SmartScreen 提示“Windows 已保护你的电脑”，请确认文件来源后选择“更多信息”→“仍要运行”。
+
+便携版
+解压 MD-Viewer-2.2.0-4-Windows-x64-Portable.zip，双击“MD Viewer.exe”。
+请勿单独移动 exe，旁边的 DLL、bridge.js 和 wwwroot 文件夹都是运行所需文件。

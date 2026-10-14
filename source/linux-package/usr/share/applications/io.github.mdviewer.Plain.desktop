@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=MD Viewer
+Name[zh_CN]=MD 文件阅读器
+Comment=View and edit Markdown files
+Comment[zh_CN]=查看和编辑 Markdown 文件
+Exec=md-viewer-plain %F
+Icon=md-viewer-plain
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;
+MimeType=text/markdown;text/x-markdown;
+StartupNotify=true
+StartupWMClass=io.github.mdviewer.Plain

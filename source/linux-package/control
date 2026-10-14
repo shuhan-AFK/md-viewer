@@ -1,0 +1,11 @@
+Package: md-viewer-plain
+Version: 2.2.0-4
+Section: editors
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.10), python3-gi, gir1.2-gtk-4.0, gir1.2-webkit-6.0, gir1.2-gdkpixbuf-2.0
+Maintainer: Local Build <local@localhost>
+Description: Lightweight Markdown viewer and editor with a plain theme
+ A Linux adaptation of MD Viewer 2.2.0 with a generic interface,
+ Markdown preview and editing, theme switching, local images, file watching,
+ and DOCX export.
